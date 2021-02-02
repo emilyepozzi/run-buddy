@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services. 
@@ -11,5 +11,6 @@ A website that offers fitness training services.
 https://emilyepozzi.github.io/run-buddy/
 
 ## Contribution
-
 Made with ❤️ by Emily Pozzi
+
+### ©️2019 Run Buddy, Inc
